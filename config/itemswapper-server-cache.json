@@ -1,0 +1,6 @@
+{
+  "enableOnIp": [],
+  "disableOnIp": [
+    "evb0.minehut.gg"
+  ]
+}

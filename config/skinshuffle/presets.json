@@ -1,0 +1,14 @@
+{
+  "chosenPreset": 0,
+  "apiPreset": 0,
+  "loadedPresets": [
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/df890a7e624dddc18bf045f407f0e44f994d4bed101bcb7d8d884d404ec8491c",
+        "model": "default",
+        "type": "skinshuffle:url"
+      },
+      "name": "EuSoJao"
+    }
+  ]
+}

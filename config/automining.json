@@ -1,0 +1,15 @@
+{
+  "simple_mode": true,
+  "miningRange": 0.0,
+  "maxDistance": 4.0,
+  "speed": 1.0,
+  "save_tool": true,
+  "switchTool": true,
+  "BreakNonToolBlocks": false,
+  "keepFood": 3.0,
+  "saveMining": "OFF",
+  "epicFood": false,
+  "swingTools": true,
+  "renderTarget": true,
+  "shape": "Square"
+}

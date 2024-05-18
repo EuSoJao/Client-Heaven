@@ -1,0 +1,18 @@
+# Show close prompt.
+prompt.enable=true
+# Show the close prompt when in-game.
+prompt.inGame=true
+# Show the close prompt when clicking the quit button.
+prompt.quitButton=true
+# Show the close prompt when pressing escape in the title screen.
+prompt.escInTitle=true
+# Make the background of the close prompt always dirt.
+screen.forceDirtBackground=false
+# Make the background of the close prompt always transparent.
+screen.forceTransparentBackground=true
+# Enable the narrator in the close prompt.
+screen.allowNarrator=false
+# Confirmation delay in ticks.
+screen.confirmDelay=40
+# Show disconnect prompt when quitting from world or server.
+prompt.disconnect=false

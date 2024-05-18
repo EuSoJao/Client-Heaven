@@ -1,0 +1,110 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				slime = true
+				sheep = true
+				cow = true
+				chicken = true
+				villager = true
+				pig = true
+				horse = true
+				chest_minecart = true
+				iron_golem = true
+				llama = true
+				creeper = true
+				bat = true
+				zombie = true
+				skeleton = true
+				cat = true
+				item = true
+				spider = true
+				glow_squid = true
+				squid = true
+				zombie_villager = true
+				drowned = true
+				wolf = true
+				bee = true
+				enderman = true
+				axolotl = true
+				polar_bear = true
+				rabbit = true
+				salmon = true
+				fox = true
+				witch = true
+				experience_orb = true
+				cod = true
+				turtle = true
+				cave_spider = true
+				arrow = true
+				donkey = true
+				egg = true
+				dolphin = true
+				pillager = true
+				hoglin = true
+				piglin = true
+				strider = true
+				zombified_piglin = true
+				blaze = true
+				wither_skeleton = true
+				ghast = true
+				small_fireball = true
+				magma_cube = true
+				fireball = true
+				ender_pearl = true
+				piglin_brute = true
+				armor_stand = true
+				frog = true
+				area_effect_cloud = true
+				item_frame = true
+				illusioner = true
+				painting = true
+				boat = true
+				minecart = true
+				wandering_trader = true
+				experience_bottle = true
+				firework_rocket = true
+				potion = true
+				shulker = true
+				fishing_bobber = true
+				vex = true
+				leash_knot = true
+				husk = true
+				goat = true
+				allay = true
+				wither = true
+				snow_golem = true
+				vindicator = true
+				mooshroom = true
+				panda = true
+				hopper_minecart = true
+				snowball = true
+				trader_llama = true
+				lightning_bolt = true
+				shulker_bullet = true
+				trident = true
+				wither_skull = true
+				ender_dragon = true
+

@@ -1,0 +1,4 @@
+backgroundType = "STICKY_NOTE"
+levelMarkType = "DIGIT_COLORED"
+guiScope = "ENCHANTED_BOOK_ONLY"
+inHandScope = "ENCHANTED_BOOK_ONLY"
